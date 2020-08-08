@@ -11,6 +11,9 @@ function App() {
         <h1 style={{marginTop:'40px',fontWeight:'1000',fontSize:'55px',wordSpacing:'10px'}}>A Explore</h1>
       </header>
       <Profile/>
+      <h4 className='footer'>
+        This Application is built using React and Github API by @Abhishek
+      </h4>
     </div>
   );
 }
