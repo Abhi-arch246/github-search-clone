@@ -1,0 +1,15 @@
+.App-logo {
+  height: 18vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: crimson;
+  height: 100%;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
